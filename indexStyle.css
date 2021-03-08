@@ -1,0 +1,67 @@
+#home a {
+    background-color: rgb(41, 41, 41);
+    color: orange;
+}
+
+#bodySpace {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#space-1 {
+    width: 100%;
+    height: 600px;
+    background-image: url(https://miro.medium.com/max/12032/0*VB5zcgdLaFDP7Fuq);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#space-2 {
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+
+#img-1 {
+    width: 50%;
+    background-image: url(https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#desc-1 {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#desc-1 h1 {
+    color: orange;
+    margin: 60px;
+}
+
+#desc-1 h1 a {
+    color: orange;
+    font-size: 28px;
+    text-decoration: none;
+    padding: 10px 15px 10px 15px;
+    background-color: white;
+}
+
+#desc-1 p {
+    color: white;
+    margin: auto 20% auto 20%;
+    font-size: 20px;
+}
+
+
+
